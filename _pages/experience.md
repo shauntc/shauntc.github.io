@@ -1,19 +1,27 @@
 ---
 layout: page
-title: experience
+title: Experience
 permalink: "/experience/"
 ---  
 # Work Experience
 ---
 ## uForis
->### *Software Engineer, Jan 2016 - Present*
+>### *Software Engineer, Jan 2017 - Present*
 >>+ Helped expand and maintain a 3D engine designed for light weight, embedded deployment on mobile hardware  
 >>+ Created a 2d application interface to lead into the 3d experience on Android and iOS  
 >>+ Rearchitected the 3d engine build system on Android to use CMake  
->>+ Integrated new APIs across multiple platforms including Google VR, React Native, and ARKit  
+>>+ Integrated new frameworks across multiple platforms including Google VR, Gear VR, React Native, ARKit, and ARCore
 >>+ Used both ARM SIMD Assembly and ARM SIMD intrinsics to optimize certain parts of the engine for performance on low end mobile hardware  
 >>+ Expanded bindings between C++ engine and V8/CoreJS interpreted Javascript engine layer  
 >>+ Used C++ for the 3d engine, Javascript in React Native, Java on Android, Objective-C and Swift on iOS, and SIMD Assembly for optimizations
+
+## Lighthouse Labs
+>### *iOS Bootcamp Mentor, Jul 2017 - Present*
+>>+ Conducted code reviews for bootcamp atendees code, providing feedback on solution architecture and general coding style
+>>+ Asissted students with debugging by pushing them in the right direction without providing the solution
+>>+ Worked with students to develop better version control workflow, allowing them to work better together (and helped to fix git issues that arose)
+>>+ Helped students to better architect solutions for their midterm and final projects
+>>+ Lead new students through programming concepts while maintaining their understanding
 
 ## Paradigm Energy Solutions
 >### *Assistant Energy Auditor, May 2010 - Sept 2010*

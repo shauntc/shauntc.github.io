@@ -7,8 +7,6 @@ permalink: "/projects/arkit/"
 ---
 *Tech: ARKit, Google VR, Swift, Objective-C, C++, Nimble*
 
-**// TODO: Put in a video of ARKit**
-
 Prototype project which allowed a user to be inside out tracked in VR on a mobile device
 Built by leveraging the positional tracking of ARKit, the rotational tracking from Google VR and lens distortion correction from Google VR to create a Google Cardboard level version of an inside out tracked headset (HTC Vive, Oculus Rift)
 

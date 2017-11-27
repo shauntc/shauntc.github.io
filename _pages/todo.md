@@ -6,11 +6,12 @@ permalink: "/todo/"
 # **/* To Do */**
 ----
 ## Pages to Add
-+ _Project: ARKit Dollhouse/Tour monoview project_
 + _Project: In-Progress -> Voyager_
++ _Project: Student Housing?_
 
 ## Other Tasks
 + _Add a PDF link to my resume_
++ _Add a video to the ARKit VR experience_
 + _Add video/pics for Student Housing_
 + _Add video/pics for inside out tracked VR project_
 + _Make a better logo_

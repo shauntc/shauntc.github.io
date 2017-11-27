@@ -7,9 +7,6 @@ permalink: "/projects/student-housing/"
 ---
 *Tech: iOS/Android, Google VR, Objective-C, Java, C++, GLKit, OpenGLES, Nimble*
 
-**// TODO: Put in a video of Student Housing**
-
-
-**// TODO: Describe Student Housing**
+The primary business of uForis is student housing applications designed to showcase apartments available on <a href="https://play.google.com/store/apps/developer?id=uForis+VR"> Google Play </a> and the iOS<a href="https://itunes.apple.com/ca/developer/uforis-vr-inc/id1146699871"> App Store </a>
 
 Source code for this project is currently closed source
