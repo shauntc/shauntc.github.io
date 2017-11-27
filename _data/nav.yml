@@ -4,10 +4,10 @@
   href: "/experience/"
 - title: "projects"
   subcategories:
-    - subtitle: "iOS World Space VR"
-      subhref: "/projects/arkit/"
     - subtitle: "ARKit Dollhouse" 
       subhref: "/projects/arkit-dollhouse"
+    - subtitle: "iOS World Space VR"
+      subhref: "/projects/arkit/"
     - subtitle: "ARCore Dollhouse"
       subhref: "/projects/arcore-dollhouse"
     - subtitle: "friend-economy"
