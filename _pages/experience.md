@@ -7,13 +7,16 @@ permalink: "/experience/"
 ---
 ## uForis
 >### *Software Engineer, Jan 2017 - Present*
->>+ Helped expand and maintain a 3D engine designed for light weight, embedded deployment on mobile hardware  
->>+ Created a 2d application interface to lead into the 3d experience on Android and iOS  
->>+ Rearchitected the 3d engine build system on Android to use CMake  
+
+>>+ Worked with a team to expand and maintain a C/C++ based 3d engine designed for light weight,  efficient, embedded deployment on mobile hardware
 >>+ Integrated new frameworks across multiple platforms including Google VR, Gear VR, React Native, ARKit, and ARCore
->>+ Used both ARM SIMD Assembly and ARM SIMD intrinsics to optimize certain parts of the engine for performance on low end mobile hardware  
->>+ Expanded bindings between C++ engine and V8/CoreJS interpreted Javascript engine layer  
->>+ Used C++ for the 3d engine, Javascript in React Native, Java on Android, Objective-C and Swift on iOS, and SIMD Assembly for optimizations
+>>+ Used both ARM SIMD Assembly and ARM SIMD intrinsics to optimize certain parts of the engine for performance on low end mobile hardware
+>>+ Created native interface and bindings on iOS (Objective-C and Swift) and Android (Java)
+>>+ Re-architected the C++ build system on Android to use CMake
+>>+ Used Gradle on Android to make addition of new customer apps based only on adding the new required assets
+>>+ Rebuilt TeamCity continuous integration for Android and expanded CI to include Gear VR
+>>+ Created a 2d application interface using react native to lead into the 3d VR experience
+>>+ Used agile development methodology to deploy iterative updates frequently
 
 ## Lighthouse Labs
 >### *iOS Bootcamp Mentor, Jul 2017 - Present*
